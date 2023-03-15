@@ -1,7 +1,6 @@
 """
 LinkedIn: https://www.linkedin.com/in/gabriel-hernandes-4a3b8b248/
 GitHub: https://github.com/Gabriel-Hernandess?tab=repositories
-
 """
 
 from pygame import mixer
@@ -253,7 +252,6 @@ def add_music_window():
 
         listbox.delete(0, END)
         show()
-        app.update()
 
     # exibe o video a ser baixado
     def show_video():
@@ -283,7 +281,6 @@ def remove():
     os.remove(f'{musica_delete}')
     listbox.delete(0, END)
     app.after(1000, show)
-    app.update()
 
 """
 
