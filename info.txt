@@ -1,0 +1,60 @@
+Para que a funcao de falar ocorra normalmente, ao pressionar o botao falar, ou pressionando a tecla 'B', fale os seguintes comandos
+de acordo com a funcao desejada:
+
+
+== Iniciar playlist:
+
+'play',
+'tocar',
+'iniciar',
+'começar',
+'tocar playlist',
+'start'.
+
+
+== Pausar musica:
+
+"Pausar musica",
+"Pausar",
+"Pause".
+
+
+== Continuar musica:
+
+"Continuar",
+"Continue",
+"Continuar musica".
+
+
+== Parar musica:
+
+"Parar musica",
+"Parar".
+
+
+== Proxima musica:
+
+"Avancar musica", 
+"Proxima", 
+"Avancar".
+
+
+== Retroceder musica:
+
+"Voltar musica",
+"Voltar",
+"Anterior".
+
+
+== Volume:
+
+Niveis: 0 até 10.
+
+Para manipular o volume, substitua (Niveis), pelo valor desejado entre 0-10.
+"Volume: (niveis)"
+
+
+== Fechar programa:
+
+"Fechar programa",
+"Sair".
